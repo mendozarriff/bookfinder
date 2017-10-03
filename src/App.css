@@ -1,0 +1,21 @@
+.rating{
+  font-size: 30px;
+  color: #fff;
+  padding: 5px 10px;
+  background: #333;
+ border-radius: 5px; 
+}
+
+.navbar {
+  background-color: transparent;
+}
+
+
+.panel-default>.panel-heading{
+  background-color: #2B7AE2;  
+  color: white
+}
+
+a{
+  cursor: pointer;
+}
